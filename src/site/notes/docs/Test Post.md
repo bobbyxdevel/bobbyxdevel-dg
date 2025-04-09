@@ -6,3 +6,5 @@
 `Test` 
 `Another`
 `Test`
+
+![logo.jpg](/img/user/logo.jpg)
